@@ -1,0 +1,6 @@
+﻿id	full_name	photo_path	aadhar_card_path	voter_id_card_path
+29	mom	photos\\citizen_1767876385506_p_Screenshot_2025-02-01_065109.png	aadhar\\citizen_1767876385521_a_Screenshot_2025-04-23_072735.png	NULL
+28	Jay and viru	photos\\citizen_1767875735373_p_WIN_20250912_13_27_26_Pro.jpg	aadhar\\citizen_1767875735377_a_Screenshot_2025-12-30_174105.png	NULL
+27	Jay and Viru	photos\\citizen_1767874920025_p_WIN_20250912_13_27_23_Pro.jpg	aadhar\\citizen_1767874920073_a_WIN_20250912_13_27_26_Pro.jpg	NULL
+26	prashant	NULL	NULL	NULL
+22	may	NULL	NULL	NULL

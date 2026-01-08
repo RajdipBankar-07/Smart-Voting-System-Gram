@@ -1,0 +1,18 @@
+Field	Type	Null	Key	Default	Extra
+id	bigint	NO	PRI	NULL	auto_increment
+full_name	varchar(255)	NO		NULL	
+birth_date	date	NO		NULL	
+age	int	YES		NULL	
+address	varchar(255)	NO		NULL	
+vasti_name	varchar(255)	YES		NULL	
+aadhar_number	varchar(100)	NO	UNI	NULL	
+photo_path	varchar(255)	YES		NULL	
+ward_id	bigint	NO	MUL	NULL	
+gender	varchar(255)	NO		NULL	
+citizen_id	varchar(255)	YES	UNI	NULL	
+family_id	varchar(255)	YES		NULL	
+status	enum('ACTIVE','DECEASED','MIGRATED')	NO		NULL	
+voter_id	varchar(255)	YES		NULL	
+has_voted	bit(1)	NO		NULL	
+mobile_number	varchar(10)	NO		NULL	
+aadhar_card_path	varchar(255)	YES		NULL	
